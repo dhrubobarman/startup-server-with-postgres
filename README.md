@@ -1,8 +1,4 @@
-Certainly! Below is a sample `README.md` file for your PNPM backend project. Feel free to customize it further based on your specific project details:
-
----
-
-# Project Name
+# Startup server with Postgres and TS
 
 A concise description of your project.
 
